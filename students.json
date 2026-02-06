@@ -1,0 +1,25 @@
+{
+  "students": {
+    "1": {
+      "name": "sanjay",
+      "email": "name@gmail.com",
+      "age": 20,
+      "course": "cse"
+    },
+    "2": {
+      "name": "sanjay",
+      "email": "name@gmail.com",
+      "age": 20,
+      "Roll_number": 307,
+      "course": "cse"
+    },
+    "3": {
+      "name": "sanjay",
+      "email": "name@gmail.com",
+      "age": 20,
+      "Roll_number": 133,
+      "course": "cse"
+    }
+  },
+  "next_id": 4
+}
