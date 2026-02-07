@@ -1,4 +1,8 @@
 # Fast-API
+
+## This project is deployed on render and access via online through this link  -  https://fast-api-36yt.onrender.com
+
+
 from os import name
 from fastapi import FastAPI
 from pydantic import BaseModel
